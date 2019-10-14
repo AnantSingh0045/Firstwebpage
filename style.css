@@ -1,0 +1,60 @@
+.A:hover{
+  background-color: #32dbc6;
+  color: #6e2142;
+}
+.B{
+  border-radius: 100%
+}
+.B:hover{
+  background-color: #fb0091;
+}
+.C:hover{
+  color: #7d0000;
+}
+.E:hover{
+  color: #c70d3a;
+}
+body{
+  background-image: url("https://www.moneycrashers.com/wp-content/uploads/2018/12/great-online-shopping-sites-1068x713.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-color: #a5ecd7;
+  border-radius: 100%
+}
+.D:hover{
+  background-color: #200f21;
+}
+hr{
+  border-style: none;
+  border-top: dotted;
+  border-top-color: #f75f00;
+  border-width: 5px;
+  background-color: transparent;
+  width: 50%
+}
+h1
+{
+  background-color: #ffb400;
+  color: #ff502f;
+  width: 100%;
+}
+h2
+{
+ color: #ed5107;
+ font-style: italic;
+ text-decoration: underline;
+}
+img{
+   background-color: #51dacf;
+
+}
+p{
+  text-align: center;
+  max-width: 650px;
+  min-width: 200px;
+  min-height: 5px;
+  font-size: 20px;
+  color: #f45905;
+  font-style: italic;
+}
